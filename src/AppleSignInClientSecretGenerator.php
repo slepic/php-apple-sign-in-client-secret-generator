@@ -22,7 +22,7 @@ final class AppleSignInClientSecretGenerator
     /**
      * @param int|null $ttl
      */
-    private function __construct(?int $ttl = null)
+    public function __construct(?int $ttl = null)
     {
         $this->ttl = $ttl ?? self::DEFAULT_TTL;
     }
