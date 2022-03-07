@@ -1,5 +1,9 @@
 {
   "name": "slepic/apple-sign-in-client-secret-generator",
+  "description": "PHP package for generating 'client secret' for Sign In with Apple",
+  "keywords": ["php", "sign-in-with-apple", "apple", "client-secret"],
+  "type": "package",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Slepic\\AppleSignInClientSecretGenerator\\": "src"
