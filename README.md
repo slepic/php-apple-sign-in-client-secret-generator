@@ -5,7 +5,7 @@ This package provides class that generates token derived from your private key u
 
 ## Requirements
 
-PHP >= 8.1
+PHP >= 8.0
 
 ## Installation
 
