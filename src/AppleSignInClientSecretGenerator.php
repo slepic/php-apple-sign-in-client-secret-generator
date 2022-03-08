@@ -17,7 +17,7 @@ final class AppleSignInClientSecretGenerator
     /**
      * @var int time to live for token
      */
-    private readonly int $ttl;
+    private int $ttl;
 
     /**
      * @param int|null $ttl
